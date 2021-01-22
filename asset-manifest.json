@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/memory-game/static/js/main.2cd95395.chunk.js",
+    "main.js.map": "/memory-game/static/js/main.2cd95395.chunk.js.map",
+    "runtime-main.js": "/memory-game/static/js/runtime-main.324741bb.js",
+    "runtime-main.js.map": "/memory-game/static/js/runtime-main.324741bb.js.map",
+    "static/css/2.1f208231.chunk.css": "/memory-game/static/css/2.1f208231.chunk.css",
+    "static/js/2.f01ee7b0.chunk.js": "/memory-game/static/js/2.f01ee7b0.chunk.js",
+    "static/js/2.f01ee7b0.chunk.js.map": "/memory-game/static/js/2.f01ee7b0.chunk.js.map",
+    "static/js/3.75114c44.chunk.js": "/memory-game/static/js/3.75114c44.chunk.js",
+    "static/js/3.75114c44.chunk.js.map": "/memory-game/static/js/3.75114c44.chunk.js.map",
+    "index.html": "/memory-game/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/memory-game/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/memory-game/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f01ee7b0.chunk.js.LICENSE.txt": "/memory-game/static/js/2.f01ee7b0.chunk.js.LICENSE.txt",
+    "static/media/Audi_R8.e9714ef0.jpg": "/memory-game/static/media/Audi_R8.e9714ef0.jpg",
+    "static/media/BMW_cadillac_ct5.c4cf7638.jpg": "/memory-game/static/media/BMW_cadillac_ct5.c4cf7638.jpg",
+    "static/media/Ford_Mustang_EcoBoost.1fa57e4d.jpg": "/memory-game/static/media/Ford_Mustang_EcoBoost.1fa57e4d.jpg",
+    "static/media/Mercedes_EQS.6a5a0669.jpg": "/memory-game/static/media/Mercedes_EQS.6a5a0669.jpg",
+    "static/media/Range_Rover_Evoque.d882acb7.jpg": "/memory-game/static/media/Range_Rover_Evoque.d882acb7.jpg",
+    "static/media/audi_a7.2465fd29.jpg": "/memory-game/static/media/audi_a7.2465fd29.jpg",
+    "static/media/audi_s7.5fdcf308.jpg": "/memory-game/static/media/audi_s7.5fdcf308.jpg",
+    "static/media/dodge_challenger.e50da4a7.jpg": "/memory-game/static/media/dodge_challenger.e50da4a7.jpg",
+    "static/media/koenigsegg_gemera.24ba9f67.jpg": "/memory-game/static/media/koenigsegg_gemera.24ba9f67.jpg",
+    "static/media/theRoad.d6a72259.jpg": "/memory-game/static/media/theRoad.d6a72259.jpg",
+    "static/media/toyota_86.c913e9eb.jpg": "/memory-game/static/media/toyota_86.c913e9eb.jpg",
+    "static/media/toyota_supra.ff4c24b5.jpg": "/memory-game/static/media/toyota_supra.ff4c24b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324741bb.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.f01ee7b0.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2cd95395.chunk.js"
+  ]
+}
